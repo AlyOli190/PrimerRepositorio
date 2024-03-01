@@ -16,7 +16,7 @@ public class cuenta {
 		saldo = saldoCta;
 	}
 	
-	public String getNumero() {
+	public String getNumero() {//Vuelvo a hacer otro cambio
 		return numero;
 	}
 	public float getSaldo() {
