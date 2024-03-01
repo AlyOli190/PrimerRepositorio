@@ -1,7 +1,7 @@
 package programas;
 
 public class cuenta {
-	private String numero;
+	private String numero;//Establezco variables
 	private float saldo;
 		
 	public cuenta(String numCta, float saldoCta) {
